@@ -20,5 +20,5 @@ while True:
         user_word = input("or just type 'quit' if you don't want to play")
         if user_word == "quit":
             else:
-                continue
+               continue
         break
