@@ -3,6 +3,7 @@ Still a n00b; here is my successful attempt to reverse a string!
 
 #print a prompt for user
 print("Hey, type in a word so we can reverse it!")
+
 #use a while loop to cycle through an 'input' prompt
 while True:
     #create the variable 'user_word' to store user input
